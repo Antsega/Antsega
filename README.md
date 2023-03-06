@@ -64,3 +64,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antsega&show_icons=true&locale=en" alt="antsega" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antsega&" alt="antsega" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antsega&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
