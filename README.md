@@ -1,3 +1,5 @@
+[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47whxsvvlinzd4ztnj3jph06rdqhu53qjwlgftmpp7&rid=200.webp&ct=g)](https://Antsega)
+
 <h1 align="center">Hi 👋, I'm Anthony Segarra</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
@@ -6,10 +8,6 @@
 - 🔭 I’m currently working on [FreeTech Consulting](https://freetech-warren.webflow.io/)
 
 - 🌱 I’m currently learning **Docker, AWS and Terraform**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Antsega](https://github.com/Antsega)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/anthony-segarra-ba710112a/](https://www.linkedin.com/in/anthony-segarra-ba710112a/)
 
 - 📫 How to reach me **anthony.segarra@freetechllc.com**
 
