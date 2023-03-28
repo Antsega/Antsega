@@ -68,7 +68,8 @@
 <h5>Other</h5>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525" alt="Ubuntu" width="40" height="40"/> </a> 
+ <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png?20120210072525" alt="Ubuntu" width="40" height="40"/> </a>
+ <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png?20151222103910" alt="Powershell" width="40" height="40"/> </a> 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antsega&show_icons=true&locale=en" alt="antsega" /></p>
 
