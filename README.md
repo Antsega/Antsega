@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, AWS and Terraform**
 
-- 📫 How to reach me **anthony.segarra@freetechllc.com**
+- 📫 How to reach me **anthonysega1099@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anthony-segarra-ba710112a/overlay/1635514775237/single-media-viewer/?profileId=ACoAAB-x-W8Bd6JlczYmDZpbjgGgXB6iIoX6NGk](https://www.linkedin.com/in/anthony-segarra-ba710112a/overlay/1635514775237/single-media-viewer/?profileId=ACoAAB-x-W8Bd6JlczYmDZpbjgGgXB6iIoX6NGk)
 
