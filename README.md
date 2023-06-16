@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FreeTech Consulting](https://freetech-warren.webflow.io/)
 
-- 🌱 I’m currently learning **Docker, AWS and Terraform**
+- 🌱 I’m currently learning **Scrapy, ElasticSearch, Databricks and Spark**
 
 - 📫 How to reach me **anthonysega1099@gmail.com**
 
