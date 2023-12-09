@@ -1,13 +1,13 @@
 [![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47whxsvvlinzd4ztnj3jph06rdqhu53qjwlgftmpp7&rid=200.webp&ct=g)](https://Antsega)
 
 <h1 align="center">Hi 👋, I'm Anthony Segarra</h1>
-<h3 align="center">Big Data Engineer and a Full Stack Web Developer</h3>
+<h3 align="center">Senior Consultant Lead Data Engineer and a Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antsega&label=Profile%20views&color=0e75b6&style=flat" alt="antsega" /> </p>
 
-- 🔭 I’m currently working on [FreeTech Consulting](https://freetech-warren.webflow.io/)
+- 🔭 As a side project I am working on [Swell Watcher](https://swellwatcher.net)
 
-- 🌱 I’m currently learning **Scrapy, ElasticSearch, Databricks and Spark**
+- 🌱 I’m currently improving on my **Databricks, Spark and Team Management** skills
 
 - 📫 How to reach me **anthonysega1099@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anthony segarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony segarra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anthony segarra" target="blank"><img align="center" src="https://www.linkedin.com/in/anthony-segarra-ba710112a/?profileId=ACoAAB-x-W8Bd6JlczYmDZpbjgGgXB6iIoX6NGk" alt="anthony segarra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
