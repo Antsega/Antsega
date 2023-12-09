@@ -15,10 +15,11 @@
 
 - ⚡ Fun fact **I love to surf**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anthony segarra" target="blank"><img align="center" src="https://www.linkedin.com/in/anthony-segarra-ba710112a/?profileId=ACoAAB-x-W8Bd6JlczYmDZpbjgGgXB6iIoX6NGk" alt="anthony segarra" height="30" width="40" /></a>
-</p>
+[//]: # (This may be the most platform independent comment)
+[//]: # (<h3 align="left">Connect with me:</h3>)
+[//]: #  (<p align="left">)
+[//]: #  (<a href="https://linkedin.com/in/anthony segarra" target="blank"><img align="center" src="https://www.linkedin.com/in/anthony-segarra-ba710112a/?profileId=ACoAAB-x-W8Bd6JlczYmDZpbjgGgXB6iIoX6NGk" alt="anthony segarra" height="30" width="40" /></a>)
+[//]: #  (</p>)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
