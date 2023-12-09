@@ -7,11 +7,11 @@
 
 - 🔭 As a side project I am working on [Swell Watcher](https://swellwatcher.net)
 
-- 🌱 I’m currently improving on my **Databricks, Spark and Team Management** skills
+- 🌱 I’m currently improving on my **Databricks, Spark, Scrum and Jira boards** skills
 
 - 📫 How to reach me **anthonysega1099@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anthony-segarra-ba710112a/overlay/1635514775237/single-media-viewer/?profileId=ACoAAB-x-W8Bd6JlczYmDZpbjgGgXB6iIoX6NGk](https://www.linkedin.com/in/anthony-segarra-ba710112a/overlay/1635514775237/single-media-viewer/?profileId=ACoAAB-x-W8Bd6JlczYmDZpbjgGgXB6iIoX6NGk)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/anthony-segarra-ba710112a?trk=people-guest_people_search-card)
 
 - ⚡ Fun fact **I love to surf**
 
