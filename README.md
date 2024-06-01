@@ -7,8 +7,6 @@
 
 - 🔭 As a side project I am working on [Swell Watcher](https://swellwatcher.net)
 
-- 🌱 I’m currently improving on my **Databricks, Spark, Scrum and Jira boards** skills
-
 - 📫 How to reach me **anthonysega1099@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/anthony-segarra-ba710112a?trk=people-guest_people_search-card)
@@ -30,6 +28,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://docs.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354313/scala.svg" alt="scala" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/docs/latest/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439" alt="apache spark" width="40" height="40" </a>
 
 <h5>Frontend Development</h5>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -50,6 +50,7 @@
 <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="pgAdmin4" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+<a href="https://docs.databricks.com/en/index.html" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" alt="databricks" width="40" height="40"/> </a> 
 
 <h5>Devops</h5>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
