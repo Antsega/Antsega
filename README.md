@@ -7,7 +7,7 @@
 
 - 🔭 As a side project I am working on [Swell Watcher](https://swellwatcher.net)
 
-- 📫 How to reach me **anthonysega1099@gmail.com**
+- 📫 How to reach me **admin@swellwatcher.net**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/anthony-segarra-ba710112a?trk=people-guest_people_search-card)
 
