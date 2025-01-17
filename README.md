@@ -1,7 +1,7 @@
 [![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47whxsvvlinzd4ztnj3jph06rdqhu53qjwlgftmpp7&rid=200.webp&ct=g)](https://Antsega)
 
 <h1 align="center">Hi 👋, I'm Anthony Segarra</h1>
-<h3 align="center">Associate Lead Data Engineer and a Full Stack Web Developer</h3>
+<h3 align="center">Associate Lead Data Engineer and a Solutions Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antsega&label=Profile%20views&color=0e75b6&style=flat" alt="antsega" /> </p>
 
