@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/anthony-segarra-ba710112a?trk=people-guest_people_search-card)
 
-- ⚡ Fun fact **I love to surf**
+- ⚡ Fun facts **I love to surf and ride motorcycles**
 
 [//]: # (This may be the most platform independent comment)
 [//]: # (<h3 align="left">Connect with me:</h3>)
