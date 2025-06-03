@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antsega&label=Profile%20views&color=0e75b6&style=flat" alt="antsega" /> </p>
 
-- 🔭 As a side project I am working on [Swell Watcher](https://swellwatcher.net)
+- 🔭 As a side project I am working on [Ride Hard](https://ridehardmotocoach.com/)
 
 - 📫 How to reach me **admin@swellwatcher.net**
 
